@@ -1,0 +1,8 @@
+C:\Development\Test\ExspressionTest\ExspressionTest\bin\Debug\ExspressionTest.exe.config
+C:\Development\Test\ExspressionTest\ExspressionTest\bin\Debug\ExspressionTest.exe
+C:\Development\Test\ExspressionTest\ExspressionTest\bin\Debug\ExspressionTest.pdb
+C:\Development\Test\ExspressionTest\ExspressionTest\obj\Debug\ExspressionTest.csprojResolveAssemblyReference.cache
+C:\Development\Test\ExspressionTest\ExspressionTest\obj\Debug\ExspressionTest.exe
+C:\Development\Test\ExspressionTest\ExspressionTest\obj\Debug\ExspressionTest.pdb
+C:\Development\Test\ExspressionTest\ExspressionTest\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Test\ExspressionTest\ExspressionTest\bin\Debug\Newtonsoft.Json.xml
